@@ -285,7 +285,7 @@ export default function HomePage() {
                     </svg>
                   </a>
                   <a
-                    href="#commands"
+                    href="commands"
                     className="text-white hover:text-orange-400 px-3 py-2 text-sm font-medium transition-colors relative group"
                   >
                     Commands
